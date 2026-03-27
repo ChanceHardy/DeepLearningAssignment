@@ -1,1 +1,7 @@
 chap5_CNN/mnist/
+
+__pycache__/
+
+.ipynb_checkpoints/
+
+chap6_RNN/tangshi_for_pytorch/poem_generator_rnn
